@@ -43,5 +43,5 @@ This dashboard provides an in-depth analysis of employee attributes across vario
 
 
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/kartikeya-mishra-b59597232/)
+[linkedin](https://www.linkedin.com/in/kartikeya-mishra-b59597232/)
 
